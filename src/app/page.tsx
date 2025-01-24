@@ -22,7 +22,7 @@ export default function Home() {
         <div className="space-y-4">
           <h1 className="text-4xl tracking-tight">Miquel Palet</h1>
           <p className="text-zinc-600 max-w-xl">
-            Entrepreneur and developer from Spain. My focus is building companies that last.
+            Entrepreneur and developer from Spain. My focus is on building companies that last.
             <br />
             Currently working on <a href="https://get-invoice.com" target="_blank" className="hover:text-zinc-800 underline">GetInvoice</a>, the AI invoice collection software.
           </p>
