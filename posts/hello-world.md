@@ -11,7 +11,7 @@ As this is the first post, and 2025 just started, I think the most sensible thin
 
 Things that have happened:
 - 3 months ago I launched Get-Invoice.com, a B2B SaaS for expense invoice management
-- A year ago I laucnhed ArbiChat.com, a Telegram service for arbitrage sports-betting
+- A year ago I launched ArbiChat.com, a Telegram service for arbitrage sports-betting
 - A year ago I also left Ucademy.com, a B2C online exam preparation service in Spain
 - Less than a year ago, I traveled for 3 months Thailand and Vietnam with my girlfriend
 - Next week I have the CFA Level 1 exam, wish me luck
