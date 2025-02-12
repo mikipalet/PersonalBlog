@@ -15,7 +15,7 @@ Things that have happened:
 - A year ago I also left Ucademy.com, a B2C online exam preparation service in Spain
 - Less than a year ago, I traveled for 3 months Thailand and Vietnam with my girlfriend
 - Next week I have the CFA Level 1 exam, wish me luck
-\
+
 So, after leaving Ucademy, a 50 people company we founded with Pablo and Ramiro, I obviously was so fucking lost. But, I wanted to explore other sectors, get more specific knowledge, basically get lost for some time.
 
 At Ucademy I was leading the product team, but also touched some finance at the end. So the first thing I did when I left was to start reading about finance / investing a lot, so I signed up for the CFA exam to force myself to keep studying.
