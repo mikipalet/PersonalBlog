@@ -29,7 +29,7 @@ export default function Home() {
         </div>
         <nav className="flex gap-4 text-sm">
           <Link href="https://x.com/paletmiki" target="_blank" className="text-zinc-500 hover:text-zinc-800">X</Link>
-          <Link href="https://www.linkedin.com/in/miquel-palet/" target="_blank" className="text-zinc-500 hover:text-zinc-800">LinkedIn</Link>
+          <Link href="https://www.linkedin.com/in/miquelpalet/" target="_blank" className="text-zinc-500 hover:text-zinc-800">LinkedIn</Link>
           <Link href="https://github.com/mikipalet" target="_blank" className="text-zinc-500 hover:text-zinc-800">GitHub</Link>
           <Link href="mailto:miki.palet@gmail.com" target="_blank" className="text-zinc-500 hover:text-zinc-800">Email</Link>
         </nav>
