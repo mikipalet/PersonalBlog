@@ -33,6 +33,10 @@ export default function Home() {
           <Link href="https://github.com/mikipalet" target="_blank" className="text-zinc-500 hover:text-zinc-800">GitHub</Link>
           <Link href="mailto:miki.palet@gmail.com" target="_blank" className="text-zinc-500 hover:text-zinc-800">Email</Link>
         </nav>
+        <div className="flex gap-4 text-sm pt-2 border-t border-zinc-100">
+          <Link href="https://getlate.dev" target="_blank" className="text-zinc-500 hover:text-zinc-800">GetLate</Link>
+          <Link href="https://tailride.so" target="_blank" className="text-zinc-500 hover:text-zinc-800">TailRide</Link>
+        </div>
       </div>
 
       {/* Writing Section */}
