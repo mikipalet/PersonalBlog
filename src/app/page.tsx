@@ -24,7 +24,6 @@ export default function Home() {
           <p className="text-zinc-600 max-w-xl">
             Entrepreneur and developer from Spain. My focus is on building companies that last.
             <br />
-            Currently working on <a href="https://get-invoice.com" target="_blank" className="hover:text-zinc-800 underline">GetInvoice</a>, the AI invoice collection software.
           </p>
         </div>
         <nav className="flex gap-4 text-sm">
@@ -34,8 +33,8 @@ export default function Home() {
           <Link href="mailto:miki.palet@gmail.com" target="_blank" className="text-zinc-500 hover:text-zinc-800">Email</Link>
         </nav>
         <div className="flex gap-4 text-sm pt-2 border-t border-zinc-100">
-          <Link href="https://getlate.dev" target="_blank" className="text-zinc-500 hover:text-zinc-800">GetLate</Link>
-          <Link href="https://tailride.so" target="_blank" className="text-zinc-500 hover:text-zinc-800">TailRide</Link>
+          <Link href="https://getlate.dev" target="_blank" className="text-zinc-500 hover:text-zinc-800">Late</Link>
+          <Link href="https://tailride.so" target="_blank" className="text-zinc-500 hover:text-zinc-800">Tailride</Link>
         </div>
       </div>
 
