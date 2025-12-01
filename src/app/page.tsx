@@ -35,6 +35,7 @@ export default function Home() {
         <div className="flex gap-4 text-sm pt-2 border-t border-zinc-100">
           <Link href="https://getlate.dev" target="_blank" className="text-zinc-500 hover:text-zinc-800">Late</Link>
           <Link href="https://tailride.so" target="_blank" className="text-zinc-500 hover:text-zinc-800">Tailride</Link>
+          <Link href="https://ucademy.com" target="_blank" className="text-zinc-500 hover:text-zinc-800">Ucademy</Link>
         </div>
       </div>
 
